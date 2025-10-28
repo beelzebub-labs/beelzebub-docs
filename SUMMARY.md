@@ -10,7 +10,7 @@
 
 * [Beelzebub API v1](basics/beelzebub-api-v1.md)
 * [Kubernetes deployment](basics/integrations.md)
-* [SSH LLM Honeypot](basics/publish-your-docs.md)
+* [SSH LLM Honeypot](getting-started/publish-your-docs.md)
 * [Logs](basics/images-and-media.md)
 * [Beelzebub Security Labs](https://beelzebub.ai/blog/)
 
