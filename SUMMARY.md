@@ -19,3 +19,4 @@
 * [Docker API Honeypot](examples/docker-api-honeypot.md)
 * [Apache basic auth](examples/apache-basic-auth.md)
 * [Ollama server](examples/ollama-server.md)
+* [Digital Tripwire](examples/digital-tripwire.md)
